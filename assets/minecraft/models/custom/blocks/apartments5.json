@@ -1,0 +1,69 @@
+{
+    "credit": "Carrot",
+    "texture_size": [
+        64,
+        64
+    ],
+    "parent":"custom/block-parent","textures": {
+        "1": "custom/blocks/store_signs2"
+    },
+    "elements": [
+        {
+            "from": [
+                -8,
+                0,
+                12
+            ],
+            "to": [
+                24,
+                32,
+                12
+            ],
+            "rotation": {
+                "angle": 0,
+                "axis": "y",
+                "origin": [
+                    7,
+                    0,
+                    4.05
+                ]
+            },
+            "faces": {
+                "north": {
+                    "uv": [
+                        9.8125,
+                        1.875,
+                        11.875,
+                        3.875
+                    ],
+                    "texture": "#1",
+                    "tintindex": 0
+                },
+                "south": {
+                    "uv": [
+                        9.8125,
+                        1.875,
+                        11.875,
+                        3.875
+                    ],
+                    "texture": "#1",
+                    "tintindex": 0
+                }
+            }
+        }
+    ],
+    "display": {
+        "head": {
+            "translation": [
+                12.5,
+                -30.5,
+                6
+            ],
+            "scale": [
+                1.6,
+                1.6,
+                1.6
+            ]
+        }
+    }
+}

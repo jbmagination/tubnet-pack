@@ -1,0 +1,22 @@
+{
+	"providers": [
+		{
+			"type": "bitmap",
+			"file": "custom/gui/hud/item_numbers.png",
+			"ascent": -54,
+			"height": 8,
+			"chars": [
+				"0123456789"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "custom/gui/hud/item_numbers-comma.png",
+			"ascent": -56,
+			"height": 8,
+			"chars": [
+				","
+			]
+		}
+	]
+}

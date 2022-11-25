@@ -1,0 +1,18 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "minecraft:block/bricks"
+      },
+      {
+      "model": "minecraft:block/bricks-1"
+    },
+    {
+      "model": "minecraft:block/bricks-2"
+    },
+    {
+      "model": "minecraft:block/bricks-3"
+    }
+  ]
+  }
+}

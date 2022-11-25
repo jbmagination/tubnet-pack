@@ -1,0 +1,82 @@
+{
+    "parent": "item/handheld_rod",
+    "credit": "Carrot",
+    "texture_size": [
+        32,
+        32
+    ],
+    "textures": {
+        "layer0": "custom/items/build/clapper"
+    },
+    "elements": [
+        {
+            "from": [
+                0,
+                0,
+                8
+            ],
+            "to": [
+                16,
+                16,
+                8
+            ],
+            "faces": {
+                "north": {
+                    "uv": [
+                        16,
+                        0,
+                        0,
+                        16
+                    ],
+                    "texture": "#layer0"
+                },
+                "east": {
+                    "uv": [
+                        0,
+                        0,
+                        0,
+                        16
+                    ],
+                    "texture": "#layer0"
+                },
+                "south": {
+                    "uv": [
+                        0,
+                        0,
+                        16,
+                        16
+                    ],
+                    "texture": "#layer0"
+                },
+                "west": {
+                    "uv": [
+                        0,
+                        0,
+                        0,
+                        16
+                    ],
+                    "texture": "#layer0"
+                },
+                "up": {
+                    "uv": [
+                        0,
+                        0,
+                        16,
+                        0
+                    ],
+                    "texture": "#layer0"
+                },
+                "down": {
+                    "uv": [
+                        0,
+                        0,
+                        16,
+                        0
+                    ],
+                    "texture": "#layer0"
+                }
+            }
+        }
+    ],
+    "gui_light": "front"
+}

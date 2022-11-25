@@ -1,0 +1,7 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "custom/items/light_strike/potion_overlay-speed2",
+        "layer1": "custom/items/light_strike/potion-speed2"
+    }
+}

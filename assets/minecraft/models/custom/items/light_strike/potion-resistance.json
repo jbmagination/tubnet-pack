@@ -1,0 +1,7 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "custom/items/light_strike/potion_overlay-resistance",
+        "layer1": "custom/items/light_strike/potion-resistance"
+    }
+}

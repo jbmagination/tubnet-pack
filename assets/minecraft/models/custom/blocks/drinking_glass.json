@@ -1,0 +1,78 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [32, 32],
+	"parent":"custom/block-parent","textures": {
+		"0": "custom/blocks/drink_glass",
+		"particle": "custom/blocks/drink_glass"
+	},
+	"elements": [
+		{
+			"from": [6, 0, 6],
+			"to": [10, 1, 10],
+			"faces": {
+				"north": {"uv": [8, 6.5, 10, 7], "texture": "#0"},
+				"east": {"uv": [6, 6.5, 8, 7], "texture": "#0"},
+				"south": {"uv": [12, 6.5, 14, 7], "texture": "#0"},
+				"west": {"uv": [10, 6.5, 12, 7], "texture": "#0"},
+				"up": {"uv": [10, 6.5, 8, 4.5], "texture": "#0"},
+				"down": {"uv": [12, 4.5, 10, 6.5], "texture": "#0"}
+			}
+		},
+		{
+			"from": [6, 1, 6],
+			"to": [10, 7, 10],
+			"faces": {
+				"north": {"uv": [2, 3.5, 4, 6.5], "texture": "#0"},
+				"east": {"uv": [0, 3.5, 2, 6.5], "texture": "#0"},
+				"south": {"uv": [6, 3.5, 8, 6.5], "texture": "#0"},
+				"west": {"uv": [4, 3.5, 6, 6.5], "texture": "#0"},
+				"up": {"uv": [4, 2, 2, 0], "texture": "#0"},
+				"down": {"uv": [6, 0, 4, 2], "texture": "#0"}
+			}
+		},
+		{
+			"from": [7.01, 0.01, 7.01],
+			"to": [8.99, 5.99, 8.99],
+			"faces": {
+				"north": {"uv": [1.5, 12, 2.49, 14.99], "texture": "#0", "tintindex": 0},
+				"east": {"uv": [0, 12, 0.99, 14.99], "texture": "#0", "tintindex": 0},
+				"south": {"uv": [4.5, 12, 5.49, 14.99], "texture": "#0", "tintindex": 0},
+				"west": {"uv": [3, 12, 3.99, 14.99], "texture": "#0", "tintindex": 0},
+				"up": {"uv": [3, 12, 1.5, 10.5], "texture": "#0", "tintindex": 0},
+				"down": {"uv": [4.5, 10.5, 3, 12], "texture": "#0", "tintindex": 0}
+			}
+		},
+		{
+			"name": "cube inverted",
+			"from": [10, 1, 10],
+			"to": [6, 0, 6],
+			"faces": {
+				"north": {"uv": [12, 7, 14, 6.5], "texture": "#0"},
+				"east": {"uv": [10, 7, 12, 6.5], "texture": "#0"},
+				"south": {"uv": [8, 7, 10, 6.5], "texture": "#0"},
+				"west": {"uv": [6, 7, 8, 6.5], "texture": "#0"},
+				"up": {"uv": [10, 4.5, 12, 6.5], "texture": "#0"},
+				"down": {"uv": [8, 6.5, 10, 4.5], "texture": "#0"}
+			}
+		},
+		{
+			"name": "cube inverted",
+			"from": [10, 7, 10],
+			"to": [6, 1, 6],
+			"faces": {
+				"north": {"uv": [6, 6.5, 8, 3.5], "texture": "#0"},
+				"east": {"uv": [4, 6.5, 6, 3.5], "texture": "#0"},
+				"south": {"uv": [2, 6.5, 4, 3.5], "texture": "#0"},
+				"west": {"uv": [0, 6.5, 2, 3.5], "texture": "#0"},
+				"up": {"uv": [4, 0, 6, 2], "texture": "#0"},
+				"down": {"uv": [2, 2, 4, 0], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"head": {
+			"translation": [0, -30.39, 0],
+			"scale": [1.6, 1.6, 1.6]
+		}
+	}
+}

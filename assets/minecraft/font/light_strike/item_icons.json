@@ -1,0 +1,13 @@
+{
+	"providers": [
+		{
+			"type": "bitmap",
+			"file": "item/iron_axe.png",
+			"ascent": -26,
+			"height": 20,
+			"chars": [
+				"A"
+			]
+		}
+	]
+}

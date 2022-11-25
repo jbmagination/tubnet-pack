@@ -1,0 +1,6 @@
+{
+	"parent": "custom/gui/buttons/rocket_race-mission-parent",
+	"textures": {
+		"0": "custom/gui/buttons/rocket_race/mission-empty"
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"providers": [
+		{
+			"type": "bitmap",
+			"file": "custom/font/light_strike/sp_numbers.png",
+			"ascent": -79,
+			"height": 30,
+			"chars": [
+				"0123456789"
+			]
+		}
+	]
+}

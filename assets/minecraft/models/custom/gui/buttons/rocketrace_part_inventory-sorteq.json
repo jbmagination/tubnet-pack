@@ -1,0 +1,1 @@
+{"credit":"Carrot","texture_size":[32,32],"textures":{"1":"custom/gui/buttons/buttons-part_inventory"},"elements":[{"from":[4,3.75,0],"to":[12.5,12.25,0],"rotation":{"angle":0,"axis":"y","origin":[8.75,7.75,0]},"faces":{"north":{"uv":[8.75,4.25,13,8.25],"texture":"#1"},"south":{"uv":[8.75,4.25,13,8.25],"texture":"#1"}}}],"gui_light":"front","display":{"gui":{"scale":[2,2,2]}}}

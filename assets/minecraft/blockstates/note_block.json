@@ -1,0 +1,22 @@
+{
+	"variants": {
+		"instrument=bass,note=1,powered=false": {
+			"model": "custom/blocks/lobby/snack_attack/nugget"
+		},
+		"instrument=bass,note=2,powered=false": {
+			"model": "custom/blocks/lobby/snack_attack/ham"
+		},
+		"instrument=bass,note=3,powered=false": {
+			"model": "custom/blocks/lobby/snack_attack/meat"
+		},
+		"instrument=bass,note=4,powered=false": {
+			"model": "custom/blocks/lobby/snack_attack/swiss"
+		},
+		"instrument=bass,note=5,powered=false": {
+			"model": "custom/blocks/lobby/snack_attack/cheese"
+		},
+		"instrument=bass,note=6,powered=false": {
+			"model": "custom/blocks/lobby/snack_attack/cracker"
+		}
+	}
+}

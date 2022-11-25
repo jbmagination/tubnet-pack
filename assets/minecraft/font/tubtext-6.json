@@ -1,0 +1,67 @@
+{
+	"providers": [
+		{
+			"type": "bitmap",
+			"file": "custom/font/tubtext.png",
+			"ascent": -80,
+			"height": 9,
+			"chars": [
+				"abcdefghjklnopqrstuvyz?/-_"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "custom/font/tubtext-2.png",
+			"ascent": -80,
+			"height": 9,
+			"chars": [
+				"mwx"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "custom/font/tubtext-3.png",
+			"ascent": -80,
+			"height": 12,
+			"chars": [
+				"ABCDEFGHJKLOPRSTUY"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "custom/font/tubtext-4.png",
+			"ascent": -80,
+			"height": 12,
+			"chars": [
+				"MNQVWZ"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "custom/font/tubtext-5.png",
+			"ascent": -80,
+			"height": 12,
+			"chars": [
+				"X"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "custom/font/tubtext-6.png",
+			"ascent": -80, 
+			"height": 12,
+			"chars": [
+				"I"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "custom/font/tubtext-7.png",
+			"ascent": -80,
+			"height": 9,
+			"chars": [
+				"i.!'"
+			]
+		}
+	]
+}

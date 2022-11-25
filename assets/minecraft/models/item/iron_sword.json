@@ -1,0 +1,9 @@
+{
+    "parent": "item/handheld",
+    "textures": {"layer0": "item/iron_sword"},
+    "overrides": [
+          { "predicate": { "custom_model_data": 1}, "model": "custom/items/light_strike/slime_sword" },
+          { "predicate": { "custom_model_data": 2}, "model": "custom/items/light_strike/pufferfish_sword" }
+
+	]
+}

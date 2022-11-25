@@ -1,0 +1,6 @@
+{
+	"parent": "custom/dyeableitem-parent",
+	"textures": {
+		"layer0": "custom/items/lobby/games/marble"	
+	}
+}

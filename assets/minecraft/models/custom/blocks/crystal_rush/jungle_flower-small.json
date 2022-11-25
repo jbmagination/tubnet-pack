@@ -1,0 +1,41 @@
+{
+	"credit": "Made with Blockbench",
+	"parent":"custom/block-parent","textures": {
+		"0": "custom/blocks/crystal_rush/jungle_flowers",
+		"particle": "custom/blocks/crystal_rush/jungle_flowers"
+	},
+	"elements": [
+		{
+			"from": [1.5, 0, 8],
+			"to": [14.5, 16, 8],
+			"rotation": {"angle": 0, "axis": "y", "origin": [-1.5, 0, 0]},
+			"faces": {
+				"north": {"uv": [3.25, 12, 0, 16], "texture": "#0"},
+				"east": {"uv": [0, 12, 0.25, 16], "texture": "#0"},
+				"south": {"uv": [3.25, 12, 0, 16], "texture": "#0"},
+				"west": {"uv": [0, 12, 0.25, 16], "texture": "#0"},
+				"up": {"uv": [3, 0, 16, 0], "texture": "#0"},
+				"down": {"uv": [3, 0, 16, 0], "texture": "#0"}
+			}
+		},
+		{
+			"from": [8, 0, 1.5],
+			"to": [8, 16, 14.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8, 8]},
+			"faces": {
+				"north": {"uv": [0, 12, 0, 16], "texture": "#0"},
+				"east": {"uv": [3.25, 12, 0, 16], "texture": "#0"},
+				"south": {"uv": [0, 12, 0, 16], "texture": "#0"},
+				"west": {"uv": [3.25, 12, 0, 16], "texture": "#0"},
+				"up": {"uv": [3, 0, 16, 0], "rotation": 270, "texture": "#0"},
+				"down": {"uv": [3, 0, 16, 0], "rotation": 90, "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"head": {
+			"translation": [0, -30.5, 0],
+			"scale": [1.6, 1.6, 1.6]
+		}
+	}
+}

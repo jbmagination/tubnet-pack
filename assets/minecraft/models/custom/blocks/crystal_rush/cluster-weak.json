@@ -1,0 +1,7 @@
+{
+	"parent": "minecraft:block/cross",
+	"textures": {
+		"particle": "custom/blocks/crystal_rush/cluster-weak",
+		"cross": "custom/blocks/crystal_rush/cluster-weak"
+	}
+}

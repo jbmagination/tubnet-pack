@@ -1,0 +1,13 @@
+{
+	"providers": [
+		{
+			"type": "bitmap",
+			"file": "custom/font/street_sign.png",
+			"ascent": 10,
+			"height": 10,
+			"chars": [
+				"ABCDEFGHIJKLMNOPQRSTUVWXYZ"
+			]
+		}
+	]
+}

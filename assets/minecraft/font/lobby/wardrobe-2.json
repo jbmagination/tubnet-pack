@@ -1,0 +1,22 @@
+{
+	"providers": [
+		{
+			"type": "bitmap",
+			"file": "custom/gui/badges/lobby/wardrobe-icons.png",
+			"ascent": -59,
+			"height": 16,
+			"chars": [
+				"lc"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "custom/gui/badges/lobby/wardrobe-mounts.png",
+			"ascent": -59,
+			"height": 48,
+			"chars": [
+				"md"
+			]
+		}
+	]
+}

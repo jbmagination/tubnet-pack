@@ -1,0 +1,6 @@
+{
+	"parent": "custom/item-parent",
+	"textures": {
+		"layer0": "custom/items/rocket_race/engine/engine-all_round"
+	}
+}

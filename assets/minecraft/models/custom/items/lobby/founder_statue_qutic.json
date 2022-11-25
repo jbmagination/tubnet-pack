@@ -1,0 +1,35 @@
+{
+	"credit": "Made by Jubbo",
+	"texture_size": [128, 128],
+	"textures": {
+		"0": "custom/blocks/founder_fountain_items",
+		"particle": "custom/blocks/founder_fountain_items"
+	},
+	"elements": [
+		{
+			"from": [4, 0, 4],
+			"to": [12, 8, 12],
+			"faces": {
+				"north": {"uv": [13.25, 5.75, 14.25, 6.75], "texture": "#0"},
+				"east": {"uv": [13.25, 6.75, 14.25, 5.75], "rotation": 90, "texture": "#0"},
+				"south": {"uv": [13.25, 5.75, 14.25, 6.75], "rotation": 90, "texture": "#0"},
+				"west": {"uv": [14.25, 5.75, 13.25, 6.75], "texture": "#0"},
+				"up": {"uv": [14.25, 5.75, 13.25, 6.75], "texture": "#0"},
+				"down": {"uv": [13.25, 6.75, 14.25, 5.75], "rotation": 270, "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"translation": [0, 7.25, 0]
+		},
+		"ground": {
+			"translation": [0, 2.75, 0],
+			"scale": [0.75, 0.75, 0.75]
+		},
+		"head": {
+			"translation": [0, -30.25, 0],
+			"scale": [1.6, 1.6, 1.6]
+		}
+	}
+}

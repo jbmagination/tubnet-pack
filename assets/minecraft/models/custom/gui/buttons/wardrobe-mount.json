@@ -1,0 +1,1 @@
+{"ambientocclusion":false,"texture_size":[128,128],"textures":{"2":"custom/gui/buttons/buttons-2"},"elements":[{"from":[3.5,3.5,4],"to":[12.5,14.5,4],"rotation":{"angle":0,"axis":"y","origin":[-6,3.5,4]},"faces":{"north":{"uv":[4.25,0,5.375,1.375],"texture":"#2"},"south":{"uv":[4.25,0,5.375,1.375],"texture":"#2"}}}],"gui_light":"front","display":{"gui":{"scale":[2,2,1]}}}

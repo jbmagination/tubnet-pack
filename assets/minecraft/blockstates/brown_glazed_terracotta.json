@@ -1,0 +1,16 @@
+{
+	"variants": {
+		"facing=east": {
+			"model": "minecraft:custom/blocks/crystal_rush/nexus-cyan"
+		},
+		"facing=west": {
+			"model": "minecraft:custom/blocks/crystal_rush/nexus-lime"
+		},
+		"facing=south": {
+			"model": "minecraft:custom/blocks/crystal_rush/nexus-yellow"
+		},
+		"facing=north": {
+			"model": "minecraft:custom/blocks/crystal_rush/nexus-magenta"
+		}
+	}
+}

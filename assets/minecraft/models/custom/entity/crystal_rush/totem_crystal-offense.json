@@ -1,0 +1,79 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [128, 128],
+	"textures": {
+		"0": "custom/entity/crystal_rush/totem_crystal",
+		"particle": "custom/entity/crystal_rush/totem_crystal"
+	},
+	"elements": [
+		{
+			"from": [8, -2, 0],
+			"to": [8, 32, 16],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 13.3, 7.875]},
+			"faces": {
+				"north": {"uv": [0, 0, 0, 4.25], "texture": "#0", "tintindex": 0},
+				"east": {"uv": [0, 0, 2, 4.25], "texture": "#0", "tintindex": 0},
+				"south": {"uv": [0, 0, 0, 4.25], "texture": "#0"},
+				"west": {"uv": [0, 0, 2, 4.25], "texture": "#0", "tintindex": 0},
+				"up": {"uv": [0, 2, 0, 0], "texture": "#0"},
+				"down": {"uv": [0, 0, 0, 2], "texture": "#0"}
+			}
+		},
+		{
+			"from": [4.325, -8, 4.57249],
+			"to": [11.325, 22, 11.57249],
+			"rotation": {"angle": -45, "axis": "y", "origin": [8, -1.7, 8.24749]},
+			"faces": {
+				"north": {"uv": [2, 4.25, 2.875, 8.125], "texture": "#0", "tintindex": 0},
+				"east": {"uv": [2, 4.25, 2.875, 8.125], "texture": "#0", "tintindex": 0},
+				"south": {"uv": [2, 4.25, 2.875, 8.125], "texture": "#0", "tintindex": 0},
+				"west": {"uv": [2, 4.25, 2.875, 8.125], "texture": "#0", "tintindex": 0},
+				"up": {"uv": [6.375, 5.125, 5.5, 4.25], "texture": "#0", "tintindex": 0},
+				"down": {"uv": [6.375, 4.25, 5.5, 5.125], "texture": "#0", "tintindex": 0}
+			}
+		},
+		{
+			"from": [0, -2, 8],
+			"to": [16, 32, 8],
+			"rotation": {"angle": 0, "axis": "y", "origin": [7.875, 13.3, 8]},
+			"faces": {
+				"north": {"uv": [0, 0, 2, 4.25], "texture": "#0", "tintindex": 0},
+				"east": {"uv": [0, 0, 0, 4.25], "texture": "#0"},
+				"south": {"uv": [0, 0, 2, 4.25], "texture": "#0", "tintindex": 0},
+				"west": {"uv": [0, 0, 0, 4.25], "texture": "#0"},
+				"up": {"uv": [2, 0, 0, 0], "texture": "#0"},
+				"down": {"uv": [2, 0, 0, 0], "texture": "#0"}
+			}
+		},
+		{
+			"name": "cracks",
+			"from": [-2.01256, -7.75, -3.7981],
+			"to": [21.98744, -7.75, 20.2019],
+			"rotation": {"angle": -45, "axis": "y", "origin": [9.23744, -8.75, 5.7019]},
+			"faces": {
+				"north": {"uv": [0, 0, 3, 0], "texture": "#0"},
+				"east": {"uv": [0, 0, 3, 0], "texture": "#0"},
+				"south": {"uv": [0, 0, 3, 0], "texture": "#0"},
+				"west": {"uv": [0, 0, 3, 0], "texture": "#0"},
+				"up": {"uv": [3.375, 0.25, 6.375, 3.25], "texture": "#0"},
+				"down": {"uv": [13, 13, 16, 16], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"head": {
+			"rotation": [0, 45, 0],
+			"translation": [0, -17.5, 0],
+			"scale": [1.6, 1.6, 1.6]
+		}
+	},
+	"groups": [
+		{
+			"name": "offense",
+			"origin": [7.9837, 13.3, 8],
+			"color": 0,
+			"children": [0, 1, 2]
+		},
+		3
+	]
+}

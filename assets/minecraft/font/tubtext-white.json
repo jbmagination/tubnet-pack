@@ -1,0 +1,31 @@
+{
+	"providers": [
+		{
+			"type": "bitmap",
+			"file": "custom/font/tubtext-white.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"abcdefghjklnopqrstuvyz?/-_"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "custom/font/tubtext-white-3.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"mwx"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "custom/font/tubtext-white-2.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"i.!'"
+			]
+		}
+	]
+}

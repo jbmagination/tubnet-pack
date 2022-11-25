@@ -1,0 +1,19 @@
+{
+	"credit": "Made by Jubbo",
+	"parent": "minecraft:item/handheld",
+	"textures": {
+		"layer0": "custom/items/lobby/founder_statue_axe"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [0, -90, 55],
+			"translation": [0, 6.25, 0.5],
+			"scale": [1.7, 1.7, 1.7]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [0, 90, -55],
+			"translation": [0, 4, 0.5],
+			"scale": [1.7, 1.7, 1.7]
+		}
+	}
+}

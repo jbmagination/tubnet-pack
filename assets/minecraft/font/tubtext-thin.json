@@ -1,0 +1,47 @@
+{
+	"providers": [
+        {
+            "type": "space",
+            "advances": {
+                " ": 4,
+                "\u200c": 0
+            }
+        },
+		{
+			"type": "bitmap",
+			"file": "custom/font/tubtext-thin.png",
+			"ascent": 6,
+			"height": 6,
+			"chars": [
+				"abcdefghijklmnopqrstuvwxyz1234567890\"?^%+="
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "custom/font/tubtext-thin_2.png",
+			"ascent": 6,
+			"height": 6,
+			"chars": [
+				".,'()!|:[]"
+			] 
+		},
+		{
+			"type": "bitmap",
+			"file": "custom/font/tubtext-thin.png",
+			"ascent": 6,
+			"height": 6,
+			"chars": [
+				"ABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890\"?"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "custom/font/tubtext-thin_3.png",
+			"ascent": 6,
+			"height": 6,
+			"chars": [
+				"/<>-_*\\"
+			]
+		}
+	]
+}

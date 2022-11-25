@@ -1,0 +1,6 @@
+{
+	"parent": "custom/gui/buttons/rocket_race-launch-parent",
+	"textures": {
+		"0": "custom/gui/buttons/rocket_race/launch-pvp"
+	}
+}

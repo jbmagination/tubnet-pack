@@ -1,0 +1,1 @@
+{"credit":"Carrot","texture_size":[32,32],"textures":{"1":"custom/gui/buttons/research_buttons"},"elements":[{"from":[0,0,0],"to":[9,9,0],"rotation":{"angle":0,"axis":"y","origin":[5,4,0]},"faces":{"north":{"uv":[4.5,4.5,9,9],"texture":"#1"},"south":{"uv":[4.5,4.5,9,9],"texture":"#1"}}}],"gui_light":"front","display":{"gui":{"translation":[7,7,0],"scale":[2,2,2]}}}

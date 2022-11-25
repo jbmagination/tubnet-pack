@@ -1,0 +1,22 @@
+{
+	"providers": [
+		{
+			"type": "bitmap",
+			"file": "custom/font/tubtext-bold_dyeable.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				"abcdefghijklmnopqrstuvwxyz1234567890\"?"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "custom/font/tubtext-bold_dyeable2.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+				".,'()!"
+			]
+		}
+	]
+}
