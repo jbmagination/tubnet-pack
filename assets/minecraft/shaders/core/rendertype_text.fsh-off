@@ -26,11 +26,11 @@ void main() {
 
     // change xp color in hotbar (TubNet yamama)
     if(color.r <= 126.50/255.0 && color.r > 126.49/255.0 && color.g == 252/255.0 && color.b <= 31.63/255.0 && color.b > 31.62/255.0){
-        color = vec4(0.1804, 0.4784, 0.7569, 1.0);
+        color = vec4(0.1804, 0.4784, 0.7569, color.a);
     }
 
     if(color.r <= 31.7/255.0 && color.r > 31.6/255.0 && color.g <= 62.3/255.0 && color.g > 62.25/255.0 && color.b <= 8.0/255.0 && color.b > 7.9/255.0){
-        color = vec4(0.1569, 0.3686, 0.5412, 1.0);
+        color = vec4(0.1569, 0.3686, 0.5412, color.a);
     }
 
     
